@@ -1,0 +1,10 @@
+QR code generation: 
+http://www.sitepoint.com/generate-qr-codes-in-php/
+Info abotu generaring QE codes using the phpqrcode library. 
+
+Google offers another API for QR code generation, this one's at 
+Root URL: https://chart.googleapis.com/chart?
+More info at https://developers.google.com/chart/infographics/docs/qr_codes?csw=1
+
+QR Code reader software.
+QR code reader software is available from many sources. Google offers a QR Code reader library, Zebra Crossing (ZXing), for free. See http://code.google.com/p/zxing/ for details.
